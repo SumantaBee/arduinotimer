@@ -1,0 +1,3 @@
+Timer	KEYWORD1
+update	KEYWORD2
+elapsed	LITERAL1
