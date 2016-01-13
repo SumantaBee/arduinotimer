@@ -19,3 +19,4 @@ net.createServer(function (socket) {
         console.log("----------------------------------------")
     });
 }).listen(port);
+console.log('Listenting on port '+port);
